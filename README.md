@@ -1,0 +1,1 @@
+This project is a blog website consisting of three pages: Home, About, and Contact, all linked together and built using HTML and CSS. It offers a clean and responsive design, making it ideal for sharing articles, updates, and personal thoughts.
